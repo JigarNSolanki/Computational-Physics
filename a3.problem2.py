@@ -1,3 +1,4 @@
+#Generalize the above program to input data points from a data file points.dat (a sample program to read data from a data file is given here ).
 X = []
 Y = []
 f = open('points.dat','r')
