@@ -1,3 +1,5 @@
+
+
 import math
 def f(x):
     return math.tan(x) - (2*math.sqrt((10.0/x)**2 - 1 )) / (2 - (10.0/x)**2) 
