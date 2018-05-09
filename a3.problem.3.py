@@ -1,3 +1,7 @@
+#Repeat problem 1 using second order polynomial. 
+#Compare the y values from the linear interpolation with those from the second order polynomial. 
+#Plot the polynomial and the input data points.
+
 X = [1.0,2.1,5.0]
 Y = [8.0,20.6,13.7]
 for i in range(3,5):
