@@ -1,3 +1,4 @@
+#Link to problems: http://10.33.1.12/~comphy/integration2.html
 import math
 def f(x):
      return x*x*math.exp(-x*x)
