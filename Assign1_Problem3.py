@@ -3,10 +3,6 @@
 #It turns out that the integral powers of x satisfy a recursive relation: x^n+1 = x^n-1 − x^n
 #Show that the above recurrence relation	is unstable by calculating x16, x30,	x40 and x50 from the recurrence relation and comparing with the actual values obtained by using inbuilt function e.g., pow(a,b) in C.
 
-
-
-
-
 import math
 x = (math.sqrt(5.0) - 1.0 )/2.0 
 
