@@ -1,3 +1,5 @@
+#Given the three data points (x, y) = (1.0, 8.0), (2.1, 20.6) and (5.0, 13.7).
+#write a program to return the value of y for any arbitrary x in the range [1.0, 5.0]. The program should exit if x is outside this range.
 X = [1.0,2.1,5.0]
 Y = [8.0,20.6,13.7]
 x = float(input("Enter the value of x : ")) 
